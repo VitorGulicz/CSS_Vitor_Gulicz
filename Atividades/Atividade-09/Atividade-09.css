@@ -1,0 +1,13 @@
+
+P{
+    color: navy;
+    font-size: 20px;
+}
+img{
+    width: 250;
+    height: 250;
+    align-items: center;
+}
+nav{
+    float: left;
+}
